@@ -3,4 +3,6 @@
 - 💞️ I’m looking to collaborate on my [Symbiote library](https://github.com/Symbi-OS/Symlib)
 - 📫 tommyu@bu.edu
 
+![Poster](Sym_Poster.001.png)
+
 ![Can](closeCan.png)
